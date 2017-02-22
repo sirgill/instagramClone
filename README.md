@@ -6,6 +6,7 @@ eachothers image feeds.
 
 * [Swift](http://swiftdoc.org/) - Programming Language 
 * [Parse](https://parseplatform.github.io/docs/) - Backend Service 
+* [Amazon EC2](https://aws.amazon.com/documentation/ec2/) - Deployed using Amazon Cloud
 * [Xcode](https://developer.apple.com/xcode/) - IDE
 
 
